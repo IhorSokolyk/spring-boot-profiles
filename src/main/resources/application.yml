@@ -1,0 +1,5 @@
+#Available profiles: dev, prod
+
+spring:
+  profiles:
+    active: default
